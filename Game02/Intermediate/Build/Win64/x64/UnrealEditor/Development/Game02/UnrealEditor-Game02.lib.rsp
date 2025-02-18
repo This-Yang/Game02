@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Game02.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\bear_Game\Game02\Game02\Intermediate\Build\Win64\x64\Game02Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\bear_Game\Game02\Game02\Intermediate\Build\Win64\x64\UnrealEditor\Development\Game02\Game02.cpp.obj"
+"E:\bear_Game\Game02\Game02\Intermediate\Build\Win64\x64\UnrealEditor\Development\Game02\Default.rc2.res"
+/OUT:"E:\bear_Game\Game02\Game02\Intermediate\Build\Win64\x64\UnrealEditor\Development\Game02\UnrealEditor-Game02.lib"
