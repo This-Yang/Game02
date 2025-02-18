@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\bear_game\\game02\\game02\\source\\game02\\game02.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\bear_game\\game02\\game02\\intermediate\\build\\win64\\x64\\game02editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\bear_game\\game02\\game02\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game02\\definitions.game02.h",
+            "e:\\bear_game\\game02\\game02\\source\\game02\\game02.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
